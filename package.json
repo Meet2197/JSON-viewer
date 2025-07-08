@@ -1,0 +1,19 @@
+{
+  "name": "json-viewer",
+  "version": "1.0.0",
+  "description": "Local JSON viewer server with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.mn.tu-dresden.de/mebh737h/JSONReader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
